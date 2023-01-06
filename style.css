@@ -1,0 +1,20 @@
+body    {
+    background-color: #f4f0e5;
+    margin: 0;
+    font-family: Tahoma;
+}
+
+.secao  {
+    text-align: center;
+    width: 700px;
+    margin: 20px auto;
+}
+
+.imagem-logotipo    {
+    width: 200px;
+}
+
+a   {
+    margin: 0 10px;
+    color: #542f0c;
+}
